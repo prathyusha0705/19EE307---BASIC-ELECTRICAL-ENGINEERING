@@ -1,5 +1,5 @@
 ## Exp. No. 8
-**Date:**  
+**Date:**  13.10.2025
 
 ## Dynamics of Sensors/Transducers (b) Displacement
 
@@ -85,12 +85,13 @@ Acting as a secondary transducer, it can be used for force, weight and pressure 
 
 # Circuit Diagram in software
 
+<img width="1735" height="817" alt="image" src="https://github.com/user-attachments/assets/62048a0f-8d45-4485-b15c-817d48d4e65a" />
 
 
 # Output Graph / Tabulation
+![WhatsApp Image 2025-11-15 at 07 04 30_1a50b5f3](https://github.com/user-attachments/assets/eca1dfee-0187-4150-b9a0-f7d78c6291de)
 
-
-# Sample images
 
 
 # Result
+Thus the dynamic characteristics of LVDT is obtained .
