@@ -4,7 +4,7 @@
 ## Open circuit and load characteristics of DC shunt generator- critical resistance.
 
 ## link
-https://ems-iitr.vlabs.ac.in/exp/load-characteristics-dc-shunt/index.html 
+https://ems-iitr.vlabs.ac.in/exp/load-characteristics-dc-shunt/index.html  
 
 ## Aim
 To study the load characterstics of DC Shunt Generator. Draw the internal characteristics and external characteristics under different loading condition.
