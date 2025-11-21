@@ -1,5 +1,5 @@
 ## Exp. No. 2
-**Date:**  
+**Date:**  18/09/25
 
 ## STAIR CASE WIRING
 <img width="790" height="910" alt="image" src="https://github.com/user-attachments/assets/6a665d52-16e2-425c-b673-986389134918" />
